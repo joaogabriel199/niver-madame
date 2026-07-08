@@ -3,7 +3,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  background: #f4f6f8;
+  background: #f4f6f8 url('Nova pasta/vang.jpeg') no-repeat center/cover;
   color: #222;
 }
 .container {
